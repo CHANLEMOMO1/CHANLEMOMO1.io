@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:55:19	4300/4300	---MCZ	403	error ('Forbidden')	text/html	date:Sun,%2013%20Nov%202022%2016:55:19%20GMT	https://CHANLEMOMO.io/robots.txt		(from )
+23:55:19	7567/7567	---MCZ	403	error ('Forbidden')	text/html	date:Sun,%2013%20Nov%202022%2016:55:19%20GMT	https://CHANLEMOMO.io/	C:/Users/Admin/Music/CHANLEMOMO/CHANLEMOMO.io/index.html	(from )
